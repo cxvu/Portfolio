@@ -24,7 +24,7 @@ A clean, minimal personal portfolio with live Discord presence integration.
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/cxvu/portfolio.git
+   git clone https://github.com/cxvu/Portfolio.git
    ```
 2. Open `index.html` in a browser
 
